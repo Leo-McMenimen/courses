@@ -21,10 +21,10 @@
          
          <div>
             <head>INGREDIENTS</head>4 oz (1 box) <objectName>unsweetened chocolate</objectName><list>         
-         <item cert="high" n=".66" xml:space="default">⅔ cup <objectName>butter</objectName></item>
-         <item>1 ⅓ cup <objectName>all purpose flour</objectName> </item>        
-         <item>1 teaspoon <objectName>baking powder</objectName> </item>        
-         <item>½ teaspoon <objectName>salt</objectName></item>         
+         <item cert="high" n=".66" xml:space="default"><measure>⅔ cup</measure> <objectName>butter</objectName></item>
+         <item><measure>1 ⅓ cup</measure> <objectName>all purpose flour</objectName> </item>        
+         <item><measure>1 teaspoon</measure> <objectName>baking powder</objectName> </item>        
+         <item><measure>½ teaspoon</measure> <objectName>salt</objectName></item>         
          <item>4 <objectName>eggs</objectName></item>         
          <item>2 cups <objectName>white sugar</objectName></item>         
          <item>2 teaspoon <objectName>vanilla</objectName></item></list>
