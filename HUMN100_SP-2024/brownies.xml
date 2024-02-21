@@ -22,7 +22,7 @@
          <div>
             <head>INGREDIENTS</head>
             <list>   
-               <item><measure>4 oz (1 box)</measure> <objectName>unsweetened chocolate</objectName>  </item>    
+               <item><measure>4 oz (1 box)</measure> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="chocolate" xml:space="default">unsweetened chocolate</objectName>  </item>    
          <item cert="high" n=".66" xml:space="default"><measure>⅔ cup</measure> <objectName>butter</objectName></item>
          <item><measure>1 ⅓ cup</measure> <objectName>all purpose flour</objectName> </item>        
          <item><measure>1 teaspoon</measure> <objectName>baking powder</objectName> </item>        
