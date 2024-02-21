@@ -28,8 +28,8 @@
          <item><measure>1 teaspoon</measure> <objectName>baking powder</objectName> </item>        
          <item><measure>½ teaspoon</measure> <objectName>salt</objectName></item>         
          <item><measure>4</measure> <objectName>eggs</objectName></item>         
-         <item>2 cups <objectName>white sugar</objectName></item>         
-         <item>2 teaspoon <objectName>vanilla</objectName></item></list>
+         <item><measure>2 cups</measure> <objectName>white sugar</objectName></item>         
+         <item><measure>2 teaspoon</measure> <objectName>vanilla</objectName></item></list>
          </div>
          
          <div>
