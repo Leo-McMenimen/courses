@@ -28,8 +28,8 @@
          <item><measure>1 teaspoon</measure> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="dry goods" xml:space="default">baking powder</objectName> </item>        
          <item><measure>½ teaspoon</measure> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="seasoning" xml:space="default">salt</objectName></item>         
          <item><measure>4</measure> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="protein" xml:space="default">eggs</objectName></item>         
-         <item><measure>2 cups</measure> <objectName>white sugar</objectName></item>         
-         <item><measure>2 teaspoon</measure> <objectName>vanilla</objectName></item></list>
+         <item><measure>2 cups</measure> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="dry goods" xml:space="default">white sugar</objectName></item>         
+         <item><measure>2 teaspoon</measure> <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="flavoring" xml:space="default">vanilla</objectName></item></list>
          </div>
          
          <div>
