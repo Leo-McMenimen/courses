@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Sample Document Title</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc sameAs="http://www.cwrc.ca">
+				<p>Created from original research by members of CWRC/CSÉC unless
+					otherwise noted.</p>
+			</sourceDesc>
+		</fileDesc>
+		</teiHeader>
+	<text>
+		<body>
+			<div>
+				<head>Leo McMenimen</head>
+				<listPerson>
+					<person>
+						<persName> McMenimen, Leo</persName>
+						<birth>
+							<placeName>Sayerville, New Jersey</placeName>
+							<date> 11/25/2003 </date>
+						</birth>
+						<occupation> Student </occupation>
+					</person>	
+				</listPerson>
+				<p>I have a metal rod screwed into my arm</p>
+
+			</div>
+			<div>
+				<head>Some Person</head>
+				<listPerson>
+					<person>
+						<persName>The name</persName>
+						<birth>
+							<placeName> Somewhere</placeName>
+							<date>00/00/0000</date>
+						</birth>
+						<occupation> something </occupation>
+					</person>
+				</listPerson>
+				<p> fun FACT </p>
+			</div>
+		</body>
+	</text>
+</TEI>
