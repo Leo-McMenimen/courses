@@ -21,47 +21,47 @@
                   <persName>Zach Blumenfeld</persName>
                   <birth>
                      <date>02/02/2005</date>
-                     <placeName>Doylestown, PA</placeName> Computer Science Engineering </birth></person></listPerson><p>I am left handed </p>
+                     <placeName>Doylestown, PA</placeName> Student Computer Science Engineering </birth></person></listPerson><p>I am left handed </p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10003" xml:space="default">
                <person>
-                  <persName>Miguel Camacho</persName> <birth><date>02/02/2005</date> <placeName>Bogota, Colombia</placeName> </birth><affiliation>Creative Writing Comparative Digital Humanities Rock Climbing CW club Film Club LACOS Cooking club Arts Merit Scholar </affiliation></person></listPerson><p>I was a competitive fencer.</p>
+                  <persName>Miguel Camacho</persName> <birth><date>02/02/2005</date> <placeName>Bogota, Colombia</placeName> Student </birth><affiliation>Creative Writing Comparative Digital Humanities Rock Climbing CW club Film Club LACOS Cooking club Arts Merit Scholar </affiliation></person></listPerson><p>I was a competitive fencer.</p>
          </div>
-         <div><listPerson cert="high" default="true" xml:id="humn10005" xml:space="default"><person><persName>Junbo Feng</persName> <birth><date>07/12/2005</date> <placeName>Guangdong, China </placeName> Computer Science Engineering Cycling E-sports Frisbee </birth></person></listPerson><p>I am a music producer</p>
+         <div><listPerson cert="high" default="true" xml:id="humn10005" xml:space="default"><person><persName>Junbo Feng</persName> <birth><date>07/12/2005</date> <placeName>Guangdong, China </placeName> Student Computer Science Engineering Cycling E-sports Frisbee </birth></person></listPerson><p>I am a music producer</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10006" xml:space="default">
                <person>
-                  <persName>Jackson Green</persName> <birth><date>03/09/2005</date> <placeName>Washington DC</placeName> Undecided crew</birth></person></listPerson><p>I have two dogs and a cat</p>
+                  <persName>Jackson Green</persName> <birth><date>03/09/2005</date> <placeName>Washington DC</placeName> Student Undecided crew</birth></person></listPerson><p>I have two dogs and a cat</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:space="default" xml:id="humn10007">
                <person>
-                  <persName>Abby Hausner</persName> <birth><date>10/08/2004</date> <placeName>Ridgewood, NJ</placeName> </birth><occupation>Economics Political Science club Basketball </occupation></person></listPerson><p>I am going to Scotland in May</p>
+                  <persName>Abby Hausner</persName> <birth><date>10/08/2004</date> <placeName>Ridgewood, NJ</placeName> Student </birth><occupation>Economics Political Science club Basketball </occupation></person></listPerson><p>I am going to Scotland in May</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10008" xml:space="default">
                <person>
-                  <persName>Dylan Lange</persName> <birth><date>06/01/2004</date> <placeName>Indio, California</placeName> Computer Science ACM Volleyball Tea Club Sigma Alpha Epsilon </birth></person></listPerson><p>I have 15 cats.</p>
+                  <persName>Dylan Lange</persName> <birth><date>06/01/2004</date> <placeName>Indio, California</placeName> Student Computer Science ACM Volleyball Tea Club Sigma Alpha Epsilon </birth></person></listPerson><p>I have 15 cats.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10009" xml:space="default">
                <person>
-                  <persName>Joshua Lee</persName> <birth><date>02/20/2004</date> <placeName>Englewood, NJ</placeName> Computer Science Korean Culture Association </birth></person></listPerson><p/>
+                  <persName>Joshua Lee</persName> <birth><date>02/20/2004</date> <placeName>Englewood, NJ</placeName> Student Computer Science Korean Culture Association </birth></person></listPerson><p/>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:space="default" xml:id="humn10013">
                <person>
-                  <persName>Erin Wiehn</persName> <birth><date>2/26/25</date> <placeName>Newton, MA</placeName> Economics Marketing Core Marketing ACS</birth></person></listPerson><p>I am left handed</p>
+                  <persName>Erin Wiehn</persName> <birth><date>2/26/25</date> <placeName>Newton, MA</placeName> Student Economics Marketing Core Marketing ACS</birth></person></listPerson><p>I am left handed</p>
          </div>
-         <div><listPerson cert="high" default="true" xml:id="humn10014" xml:space="default"><person><persName>Peyton Wynkoop</persName> <birth><date>08/21/2005</date> <placeName>Abu Dhabi, UAE</placeName>  Undeclared DSAC</birth></person></listPerson><p/>
-         </div>
-         <div>
-            <listPerson cert="high" default="true" xml:id="humn10015" xml:space="default"><person><persName>Claire Cahoon</persName> <birth><date>03/16</date> <placeName>Charlottesville, VA</placeName> English Computer Science/Web Programming </birth></person></listPerson><p>I have color synesthesia and a rambunctious cat.</p>
+         <div><listPerson cert="high" default="true" xml:id="humn10014" xml:space="default"><person><persName>Peyton Wynkoop</persName> <birth><date>08/21/2005</date> <placeName>Abu Dhabi, UAE</placeName>  Student Undeclared DSAC</birth></person></listPerson><p/>
          </div>
          <div>
-            <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default"><person><persName>Diane "Dr. J" Jakacki</persName> <birth> <placeName>Englewood cliffs, NJ</placeName> English History Theatre Anthropology Delta Gamma CSDH Renaissance Society of America</birth></person></listPerson><p>I am ambidexterus, My favorite color is blue, I hate lima beans and egg salad</p>
+            <listPerson cert="high" default="true" xml:id="humn10015" xml:space="default"><person><persName>Claire Cahoon</persName> <birth><date>03/16</date> <placeName>Charlottesville, VA</placeName> Professor English Computer Science/Web Programming </birth></person></listPerson><p>I have color synesthesia and a rambunctious cat.</p>
+         </div>
+         <div>
+            <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default"><person><persName>Diane "Dr. J" Jakacki</persName> <birth> <placeName>Englewood cliffs, NJ</placeName> Professor English History Theatre Anthropology Delta Gamma CSDH Renaissance Society of America</birth></person></listPerson><p>I am ambidexterus, My favorite color is blue, I hate lima beans and egg salad</p>
          </div>
          <div>
             <listPerson>
