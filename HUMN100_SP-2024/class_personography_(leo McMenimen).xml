@@ -16,8 +16,7 @@
             <listPerson>
                <person>
                   <persName>Zach Blumenfeld</persName>
-                  <occupation/><birth>
-                     <date>02/02/2005</date>
+                  <occupation>Computer Science</occupation><birth> <date>02/02/2005</date>
                      <placeName>Doylestown, PA</placeName> Student Computer Science Engineering </birth></person></listPerson><p>I am left handed </p>
          </div>
          <div>
