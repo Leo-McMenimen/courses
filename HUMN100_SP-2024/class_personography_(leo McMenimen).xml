@@ -8,7 +8,7 @@
             <listPerson cert="high" default="true" xml:id="humn10010" xml:space="default">
                <person>
                   <persName>Leo McMenimen </persName><birth><date>11/25/2003</date>
-                     <placeName>Sayerville, New Jersey</placeName></birth><occupation> Student   </occupation><occupation>Computer Science</occupation><occupation> Association for Computing Machinery </occupation><occupation>Active Minds</occupation></person></listPerson><p>I have a metal rod screwed into my right arm.</p>
+                     <placeName>Sayerville, New Jersey</placeName></birth><occupation> Student </occupation><occupation>Computer Science</occupation><occupation> Association for Computing Machinery </occupation><occupation>Active Minds</occupation></person></listPerson><p>I have a metal rod screwed into my right arm.</p>
          </div>
          <div><listPerson cert="high" default="true" xml:id="humn10001" xml:space="default"><person><birth><date>Nikita Bityutskiy</date> 10/09/2003 <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation>Student Computer Science Engineering American Politics Mens Swim and Dive</occupation></person></listPerson><p>I wanted to play baseball but I screwed up my shoulder.</p>
          </div>
