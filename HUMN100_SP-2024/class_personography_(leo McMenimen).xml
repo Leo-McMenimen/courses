@@ -29,12 +29,12 @@
          <div>
             <listPerson cert="high" default="true" xml:id="humn10006" xml:space="default">
                <person>
-                  <persName>Jackson Green</persName> <birth><date>03/09/2005</date> <placeName>Washington DC</placeName> Student Undecided crew</birth></person></listPerson><p>I have two dogs and a cat</p>
+                  <persName>Jackson Green</persName> <birth><date>03/09/2005</date><placeName>Washington DC</placeName></birth><occupation> Student </occupation><occupation>Undecided</occupation><occupation> crew</occupation></person></listPerson><p>I have two dogs and a cat</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:space="default" xml:id="humn10007">
                <person>
-                  <persName>Abby Hausner</persName> <birth><date>10/08/2004</date> <placeName>Ridgewood, NJ</placeName> Student </birth><occupation>Economics Political Science club Basketball </occupation></person></listPerson><p>I am going to Scotland in May</p>
+                  <persName>Abby Hausner</persName> <birth><date>10/08/2004</date> <placeName>Ridgewood, NJ</placeName></birth><occupation> Student </occupation><occupation>Economics</occupation><occupation> Political Science </occupation><occupation>club Basketball </occupation></person></listPerson><p>I am going to Scotland in May</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10008" xml:space="default">
