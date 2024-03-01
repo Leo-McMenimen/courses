@@ -22,7 +22,7 @@
          <div>
             <listPerson cert="high" default="true" xml:id="humn10003" xml:space="default">
                <person>
-                  <persName>Miguel Camacho</persName> <birth><date>02/02/2005</date> <placeName>Bogota, Colombia</placeName> Student </birth><affiliation>Creative Writing Comparative Digital Humanities Rock Climbing CW club Film Club LACOS Cooking club Arts Merit Scholar </affiliation></person></listPerson><p>I was a competitive fencer.</p>
+                  <persName>Miguel Camacho</persName> <birth><date>02/02/2005</date> <placeName>Bogota, Colombia</placeName></birth><occupation> Student</occupation><occupation> Creative Writing</occupation><occupation> Comparative Digital Humanities</occupation> <occupation>Rock Climbing</occupation><occupation>CW club</occupation> <occupation>Film Club</occupation> <affiliation>LACOS</affiliation><affiliation>Cooking club Arts Merit Scholar</affiliation></person></listPerson><p>I was a competitive fencer.</p>
          </div>
          <div><listPerson cert="high" default="true" xml:id="humn10005" xml:space="default"><person><persName>Junbo Feng</persName> <birth><date>07/12/2005</date> <placeName>Guangdong, China </placeName> Student Computer Science Engineering Cycling E-sports Frisbee </birth></person></listPerson><p>I am a music producer</p>
          </div>
