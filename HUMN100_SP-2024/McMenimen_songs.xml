@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>McMenimen songs</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Zach Bryan - <title level="a">God Speed</title> from the album <title>DeAnn</title> <title level="m"/></head>
+            <lg>
+               <l>I like the way your face looks</l>
+               <l>When you're smiling like a vandal</l>
+               <l>Waking up warm with you in a room</l>
+               <l>That's too cold for us to handle</l>
+               <l> And in this shack I'm living in</l>
+               <l> You don't mind sleeping in</l>
+               <l> Eating food leftover from last night</l>
+               <l> There's plenty of boys that want you, babe</l>
+               <l> But for me you will crawl and scratch, and fight</l>
+               <l> So we'll go out on Saturday</l>
+               <l> And ride the bronco through the bay</l>
+               <l> Sit and drink cerveza by the shore</l>
+               <l> You'll tell me you love me, girl</l>
+               <l> Even if I'm wrecked, lonely, and poor</l>
+               <l> So don't give up on me</l>
+               <l> You don't care where I'm buying</l>
+               <l> You're in</l>
+               <l> Girls today will drink all day</l>
+               <l> To fall in love with any boy they see</l>
+               <l> You're a sight of utmost beauty</l>
+               <l> Utmost strength and utmost loyalty</l>
+               <l> So I'll sit here and drink all night</l>
+               <l> And talk about the Lord's delight in you</l>
+               <l> If my mama could just see you laugh</l>
+               <l> I know that she could see the shine in you</l>
+               <l> She'd say thanks for taking care</l>
+               <l> Of her baby boy 'cause she can't be here</l>
+               <l> And hug you 'til your little lungs turn blue</l>
+               <l> No, I won't give up on you</l>
+               <l> No, I won't give up on you </l>
+            </lg>
+         </div>
+         <div>
+            <head>Zach Bryan - <title cert="high" level="a">Come as You Are</title> from the album Elisabeth </head>
+            <lg>
+               <l>I've got some good friends with some loose ends</l>
+               <l>That remind me of myself</l>
+               <l> They can drink as much as me</l>
+               <l> And they can smoke me half to hell</l>
+               <l> And by the end of these songs</l>
+               <l> When we bring our asses home</l>
+               <l> They'll all be thankin' God</l>
+               <l> That they're not in this pain alone</l>
+               <l> And this world has been so cruel to me</l>
+               <l> And it's been the same to them</l>
+               <l> But I don't mind sharin' my sweet depression</l>
+               <l> With some boys that act just like me</l>
+               <l> And a girl who does the same</l>
+               <l> I don't know how I got here</l>
+               <l> But I'm glad as hell I came</l>
+               <l> Come as you are, however broken</l>
+               <l> And we will see if we can make you whole again</l>
+               <l> Come as you are with your heart wide open</l>
+               <l> Bridges that you've burned</l>
+               <l> They are still there just floatin'</l>
+               <l> Remember us in our bright eyed days</l>
+               <l> Too young to go inside</l>
+               <l> Sittin' drunk on curbs tryin' to get us ourselves a ride</l>
+               <l> Of the pretty girls who walk down there on Elgin Avenue</l>
+               <l> Oklahoma sure is quiet, but it has itself a view</l>
+               <l> And how am I supposed to know the good times that I'm in</l>
+               <l> If the good is only seen when I'm lookin' back at them</l>
+               <l> The boys are gettin' off work</l>
+               <l> And they're haulin' on back home</l>
+               <l> If I am meant for anything, it's to show you you're not alone</l>
+               <l> Come as you are, however broken</l>
+               <l> And we will see if we can make you whole again</l>
+               <l> Come as you are with your heart wide open</l>
+               <l> Bridges that you've burned</l>
+               <l> They are still there just floatin'</l>
+               <l> I've got some good friends with some loose ends</l>
+               <l> That remind me of myself</l>
+               <l> They can drink as much as me</l>
+               <l> And they can smoke me half to hell</l>
+               <l> And by the end of these songs</l>
+               <l> When we bring our asses home</l>
+               <l> They'll all be thankin' God</l>
+               <l> We're not in this pain alone</l>
+               <l> Come as you are, however broken</l>
+               <l> And we will see if we can make you whole again</l>
+               <l> Come as you are with your heart wide open</l>
+               <l> Bridges that you've burned</l>
+               <l>They are still there just floatin'</l>
+            </lg>
+         </div>
+         <div>
+            <head>Zach Bryan - <title cert="high" level="a">Tishomingo</title> from the album American Heartbreak</head>
+            <lg>
+               <l>Well, I don't think that the city moves slow enough for me</l>
+               <l> So I'm gonna leave now and I ain't showing no warnings</l>
+               <l> And I know that mama said that love'll always lead you home</l>
+               <l> But I've been following this lonely road for way too long</l>
+               <l> So won't you pray for me tonight?</l>
+               <l> I've been heading down a dark cold road</l>
+               <l> I've been dreaming of a porch swing with some lights</l>
+               <l> Hoping I can find myself back home</l>
+               <l> Now, I'm breaking horses out in Tishomingo</l>
+               <l> And every night I lie there and wonder where good men's dreams go</l>
+               <l> And most nights I wonder how far train cars can travel</l>
+               <l> Or how far a man can go before one's truly unraveled</l>
+               <l> So won't you pray for me tonight?</l>
+               <l> I've been heading down a dark cold road</l>
+               <l> And I've been dreaming of a porch swing with some lights</l>
+               <l> Hoping I can find myself back home</l>
+               <l> Don't jump in so quick kid, you're gonna wind up hurt</l>
+               <l> She's with a new man in New York, the last time I heard</l>
+               <l> And I know that mama said that love'll always lead me home</l>
+               <l> But I been following a lonely road for way too long</l>
+               <l> So won't you pray for me tonight?</l>
+               <l> I've been heading down a dark cold road</l>
+               <l> I've been dreaming of a you by my side</l>
+               <l> Praying I can get myself back home</l>
+            </lg>
+         </div>
+         <div>
+            <head>Zach Bryan - <title level="a">El Dorado</title> from the album Zach Bryan</head>
+            <lg>
+               <l>Did you ever make it back to El Dorado?</l>
+               <l> I'd call and ask, but hell if I know</l>
+               <l> If I still got your number or if you care</l>
+               <l> You moved away when you was younger</l>
+               <l> Was it escape or was it hunger?</l>
+               <l> Kansas ain't no place to be a man</l>
+               <l> You used to say you'd settle down</l>
+               <l> But that kind girl from school in town</l>
+               <l> She was gone before you got back home</l>
+               <l> To El Dorado, hell if I know if you're still alive</l>
+               <l> There's a note in the glovebox in your drive</l>
+               <l> El Dorado, hell if they know the difference in a hero</l>
+               <l> And a man I wish was still by my side</l>
+               <l> Seventeen years old</l>
+               <l> How our grins look scary brave</l>
+               <l> My mama always said we look so handsome when we shave</l>
+               <l> You used to say, "If not you, then who?"</l>
+               <l> And you'd go a thousand times or two</l>
+               <l> Now your name's up on a sign in El Dorado driving through</l>
+               <l> In El Dorado, hell if I know if you're still alive</l>
+               <l> There's a note in the glovebox in your drive</l>
+               <l> El Dorado, hell if they know the difference in a hero</l>
+               <l> And a man I wish was still by my side</l>
+               <l> You're in every last memory alive</l>
+               <l> And I called last week to talk to my favorite old devil dog</l>
+               <l> They told me he had finally headed home</l>
+            </lg>
+         </div>
+         <div>
+            <head>Zach Bryan - Sarah’s Place from the EP Boys of Faith</head>
+            <lg>
+               <l>Road dogs are built for sleepin' in</l>
+               <l> I've been up since 4 AM</l>
+               <l> At your worst, you're better than my better days</l>
+               <l> There ain't been no sun in LA</l>
+               <l> Since you moved out of Sarah's place</l>
+               <l> I love your mother's stories 'bout you as a kid</l>
+               <l> I heard you scored a job in the east village</l>
+               <l> While working for some folks who don't know your name</l>
+               <l> Well, ain't you gonna miss all of them wasted days?</l>
+               <l> We'd sit around, drinkin' out at Sarah's place</l>
+               <l> Don't come back lover, I'm proud you're under the skyline</l>
+               <l> We always knew you were the better half of our good times</l>
+               <l> Those backyard lights don't shine as bright without your face</l>
+               <l> Out at Sarah's Place</l>
+               <l> And you called to talk just last week</l>
+               <l> I'm still fallin' apart like I'll always be</l>
+               <l> And your picnic chair is still sittin' there in the yard</l>
+               <l> And I had to sell my old guitar</l>
+               <l> But don't come back lover, I'm proud you're under the skyline</l>
+               <l> We always knew you were the better half of our good times</l>
+               <l> Those backyard lights don't shine as bright without your face</l>
+               <l> Out at Sarah's Place</l>
+               <l> You'll always be a piece of mine, a piece of mine</l>
+               <l> We drove that road we know at least a million times</l>
+               <l> I'm so damn tired of seeing that empty drive</l>
+               <l> Out at Sarah's Place</l>
+               <l> Don't come back lover, I'm proud you're under the skyline</l>
+               <l> We always knew you were the better half of our good times</l>
+               <l> Those backyard lights don't shine as bright without your face</l>
+               <l> Out at Sarah's Place</l>
+               <l> Hey</l>
+               <l> Plane tickets have gotten awfully expensive</l>
+               <l> But I got mine for the price of a Gibson</l>
+            </lg>
+         </div>
+         <div>
+            <head>Zach Bryan - Burn Burn Burn from a single that he released</head>
+            <lg>
+               <l>Well, everyone seems a damn genius lately</l>
+               <l> TikTok talkin', late-night TV</l>
+               <l> There's still so much I have yet to know</l>
+               <l> Get dressed up just to go downtown</l>
+               <l> In some ego-filled late-night crowd</l>
+               <l> Seems to be where I feel most alone</l>
+               <l> I'd like to get lost on some old back road</l>
+               <l> And find a shade tree and a honey hole</l>
+               <l> And talk to my grandpa again</l>
+               <l> I'll see God in everything</l>
+               <l> Trees and pain and nights in the spring</l>
+               <l> So why do I still long for a home?</l>
+               <l> I'd like to lay in a field on a cozy blanket</l>
+               <l> And feel the fear of never wakin'</l>
+               <l> To know the true warmth of the sun</l>
+               <l> Like to love my lady long and hard</l>
+               <l> And lay down lines of laymen guitar</l>
+               <l> And never leave her lovin' arms again</l>
+               <l> My exes hate me and my friends all miss me</l>
+               <l> I wanna drown in Rotgut whiskey</l>
+               <l> Leave this small town for a while</l>
+               <l> I wanna be a child climbin' trees somewhere</l>
+               <l> Breathin' in the fresh outside air</l>
+               <l> Before I knew this life was unkind</l>
+               <l> I want a well-trained dog on a couple of acres</l>
+               <l> A kind, kind lady and a place to take her</l>
+               <l> Few good friends I can count on one of my hands</l>
+               <l> I know I'm bound to die one day</l>
+               <l> So when I reach those golden gates</l>
+               <l> I pray to say I did the best I can</l>
+               <l> Sit with my mother and the dearly departed</l>
+               <l> Send a prayer down to the broken-hearted</l>
+               <l> Let 'em know it all turns out just fine</l>
+               <l> To know me is to love me and to hate me is to wrong me</l>
+               <l> I prefer my nights so lonely</l>
+               <l> Love blues guitar, muscle cars, and gin</l>
+               <l> 'Cause I'm a simple man, I don't need much</l>
+               <l> Just my simple songs and some human touch</l>
+               <l> Tired now, so I'm bringin' my ass home</l>
+               <l> So let me go down the line</l>
+               <l> I wanna feel it all, joy, pain, and sky</l>
+               <l> So let me go down the line</l>
+               <l> 'Cause we all burn, burn, burn and die</l>
+               <l> So let me go down the line</l>
+               <l> I wanna feel it all, joy, pain, and sky</l>
+               <l> So let me go down the line</l>
+               <l> We all burn, burn, burn and die</l>
+               <l> So let me go down the line</l>
+               <l> I wanna feel it all, joy, pain, and sky</l>
+               <l> Let me go down the line</l>
+               <l> We all burn, burn, burn and die</l>
+               <l> I got one more chorus for you guys if you wanna be in it</l>
+               <l> To the heavens, huh?</l>
+               <l> So let me go down the line</l>
+               <l> I wanna feel it all, joy, pain, and sky (let's go)</l>
+               <l> So let me go down the line</l>
+               <l> 'Cause we all burn (burn, burn and die)</l>
+            </lg>
+         </div>
+         <div>
+            <head>Zach Bryan - Open the Gate from the album American Heartbreak</head>
+            <lg>
+               <l>​​I heard you died out in Cheyenne</l>
+               <l> With my mother's ring on your hand</l>
+               <l> A note in your pocket said I love you till I die</l>
+               <l> I can hear the bulls are coming to claim what they've been huntin'</l>
+               <l> The son of a cowboy can't claim his daddy's right</l>
+               <l> And my baby, she's been cryin' at the thought of me dyin'</l>
+               <l> She knows there's no stopping a man and his foolish pride</l>
+               <l> So, open the gates, I'm here to prove</l>
+               <l> I'm better than my father was</l>
+               <l> And where he came from, too</l>
+               <l> Open the gates, I'm here to ride To-hell-I-go, with daddy by my side</l>
+               <l> And I ain't never feared nothing that was four legged and buckin'</l>
+               <l> Throw me on a hurricane and I'll ride it to the coast</l>
+               <l> You'll never know that your son came to do what you should've done</l>
+               <l> On a summer day a long time ago, top a bull named To-hell-I-go</l>
+               <l> So, open the gates, I'm here to prove</l>
+               <l> I'm better than my father was</l>
+               <l> And where he came from, too</l>
+               <l> Open the gates, I'm here to ride To-hell-I-go, with daddy by my side</l>
+               <l> Will I die out in Cheyenne with my baby there cryin'?</l>
+               <l> In a belly that's been growin' by the day</l>
+               <l> And I know that my son will do what his father should've done</l>
+               <l> A long, long time ago on a bull named To-hell-I-go</l>
+               <l> So, open the gates, he's here to prove</l>
+               <l> He's better than his father was</l>
+               <l> And where he came from too</l>
+               <l> Open the gates he's here to ride To-hell-I-go's calf</l>
+               <l> The daddy by his side</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
