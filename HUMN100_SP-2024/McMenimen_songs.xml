@@ -103,7 +103,7 @@
             </lg>
          </div>
          <div>
-            <head>Zach Bryan - <title cert="high" level="a">Tishomingo</title> from the album American Heartbreak</head>
+            <head>Zach Bryan - <title cert="high" level="a"><placeName>Tishomingo</placeName></title> from the album American Heartbreak</head>
             <lg>
                <l>Well, I don't think that the city moves slow enough for me</l>
                <l> So I'm gonna leave now and I ain't showing no warnings</l>
@@ -163,7 +163,7 @@
             </lg>
          </div>
          <div>
-            <head>Zach Bryan - Sarah’s Place from the EP Boys of Faith</head>
+            <head>Zach Bryan - <title cert="high" level="a">Sarah’s Place</title> from the EP Boys of Faith</head>
             <lg>
                <l>Road dogs are built for sleepin' in</l>
                <l> I've been up since 4 AM</l>
@@ -263,7 +263,7 @@
             </lg>
          </div>
          <div>
-            <head>Zach Bryan - Open the Gate from the album American Heartbreak</head>
+            <head>Zach Bryan - <title level="a">Open the Gate</title> from the album American Heartbreak</head>
             <lg>
                <l>​​I heard you died out in Cheyenne</l>
                <l> With my mother's ring on your hand</l>
