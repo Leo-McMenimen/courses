@@ -574,7 +574,7 @@
    <text>
       <body>
          <div>
-            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title level="a">God Speed</title> from the album <title cert="high" level="a" xml:space="default">DeAnn</title> </head>
+            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title level="a">God Speed</title> from the album <title cert="high" level="m" xml:space="default">DeAnn</title> </head>
             <lg>
                <l>I like the way your face looks</l>
                <l>When you're smiling like a vandal</l>
@@ -609,7 +609,7 @@
             </lg>
          </div>
          <div>
-            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023">Zach Bryan</persName> - <title cert="high" level="a">Come as You Are</title> from the album <title level="m">Elisabeth</title> </head>
+            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023">Zach Bryan</persName> - <title cert="high" level="a">Come as You Are</title> from the album <title cert="high" level="m" xml:space="default">Elisabeth</title> </head>
             <lg>
                <l>I've got some good friends with some loose ends</l>
                <l>That remind me of myself</l>
@@ -662,7 +662,7 @@
             </lg>
          </div>
          <div>
-            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title cert="high" level="a"><placeName>Tishomingo</placeName></title> from the album American Heartbreak</head>
+            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title cert="high" level="a"><placeName>Tishomingo</placeName></title> from the album <title cert="high" level="m">American Heartbreak</title></head>
             <lg>
                <l>Well, I don't think that the city moves slow enough for me</l>
                <l> So I'm gonna leave now and I ain't showing no warnings</l>
