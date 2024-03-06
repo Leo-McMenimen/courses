@@ -1296,7 +1296,7 @@
             </lg>
          </div>
          <div>
-            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title level="a">Open the Gate</title> from the album <title key="American Heartbreak" ref="http://www.wikidata.org/entity/Q112221368" level="m">American Heartbreak</title></head>
+            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title level="a">Open the Gate</title> from the album <title key="American Heartbreak" ref="http://www.wikidata.org/entity/Q112221368" level="m">American Heartbreak </title></head>
             <lg>
                <l>​​I heard you died out in <placeName key="Cheyenne (Okl.)" ref="http://viaf.org/viaf/1912159474073927660778/">Cheyenne</placeName></l>
                <l> With my mother's ring on your hand</l>
