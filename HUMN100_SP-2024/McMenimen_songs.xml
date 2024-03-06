@@ -681,10 +681,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306094121205",
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306094310174",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-06T14:41:21.205Z",
-	"dcterms:modified": "2024-03-06T14:43:10.174Z",
+	"dcterms:created": "2024-03-06T14:43:10.174Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/Leo-McMenimen",
 		"@type": [
@@ -695,7 +694,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306094121205#Target",
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306094310174#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
@@ -709,7 +708,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306094121205#Selector",
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306094310174#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div[3]/head/title[2]/title"
 		}
@@ -876,6 +875,85 @@
 	"oa:hasBody": {
 		"@type": "bf:Title",
 		"@id": "http://www.wikidata.org/entity/Q112221368",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?place_annotation_20240306185630972",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-06T23:56:30.972Z",
+	"dcterms:modified": "2024-03-06T23:56:30.972Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?place_annotation_20240306185630972#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?place_annotation_20240306185630972#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[7]/lg/l/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://viaf.org/viaf/1912159474073927660778/",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -1141,7 +1219,7 @@
          <div>
             <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title level="a">Open the Gate</title> from the album <title key="American Heartbreak" ref="http://www.wikidata.org/entity/Q112221368" level="m">American Heartbreak</title></head>
             <lg>
-               <l>​​I heard you died out in Cheyenne</l>
+               <l>​​I heard you died out in <placeName key="Cheyenne (Okl.)" ref="http://viaf.org/viaf/1912159474073927660778/">Cheyenne</placeName></l>
                <l> With my mother's ring on your hand</l>
                <l> A note in your pocket said I love you till I die</l>
                <l> I can hear the bulls are coming to claim what they've been huntin'</l>
