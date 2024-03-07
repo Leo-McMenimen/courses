@@ -1044,6 +1044,86 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306190544653",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T00:05:44.653Z",
+	"dcterms:modified": "2024-03-07T00:05:44.653Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306190544653#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?title_annotation_20240306190544653#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[7]/head/title[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q112221368",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -1296,7 +1376,7 @@
             </lg>
          </div>
          <div>
-            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title level="a">Open the Gate</title> from the album American Heartbreak <note type="scholarNote">	The song Open the Gate by Zach Bryan has a theme of legacy. It discusses the ideas of proving yourself and living up to expectations that the ones before you have set. The song sets the idea that there are risks that have to be taken to prove your worth. The song states that there is a “foolish pride” that comes along with trying to prove your worth, meaning you are willing to do whatever it takes to succeed. The song ends by ultimately saying that you will create your own legacy and eventually your own child will be tasked with living up to the legacy that you have left behind.</note></head>
+            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> - <title level="a">Open the Gate</title> from the album <title key="American Heartbreak" ref="http://www.wikidata.org/entity/Q112221368" cert="high" level="m">American Heartbreak</title> <note type="scholarNote">	The song Open the Gate by Zach Bryan has a theme of legacy. It discusses the ideas of proving yourself and living up to expectations that the ones before you have set. The song sets the idea that there are risks that have to be taken to prove your worth. The song states that there is a “foolish pride” that comes along with trying to prove your worth, meaning you are willing to do whatever it takes to succeed. The song ends by ultimately saying that you will create your own legacy and eventually your own child will be tasked with living up to the legacy that you have left behind.</note></head>
             <lg>
                <l>​​I heard you died out in <placeName key="Cheyenne (Okl.)" ref="http://viaf.org/viaf/1912159474073927660778/">Cheyenne</placeName></l>
                <l> With my mother's ring on your hand</l>
