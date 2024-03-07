@@ -8684,6 +8684,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307172508707",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T22:25:08.707Z",
+	"dcterms:modified": "2024-03-07T22:25:08.707Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307172508707#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307172508707#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[7]/lg/l[23]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Note",
+		"dc:format": "text/plain",
+		"rdf:value": "The last four lines talk about the never ending cycle of legacy chasing that will come from a child trying to achieve the goals set by the father."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -8960,12 +9039,12 @@
                <l> Will I die out in <placeName key="Cheyenne (Okl.)" ref="http://viaf.org/viaf/1912159474073927660778/">Cheyenne</placeName> with my baby there cryin'?</l>
                <l> In a belly that's been growin' by the day</l>
                <l> And I know that my <persName key="son" ref="http://www.wikidata.org/entity/Q177232" cert="high" type="real">son</persName> will do what his <persName key="narrator" ref="http://www.wikidata.org/entity/Q58363586">father</persName> should've done </l>
-               <l> A long, long time ago on a bull named To-hell-I-go   </l>
+               <l> A long, long time ago on a bull named To-hell-I-go   <note>The last four lines talk about the never ending cycle of legacy chasing that will come from a child trying to achieve the goals set by the father.</note></l>
                <l> So, open the gates, he's here to prove</l>
                <l> He's better than his father was</l>
                <l> And where he came from too</l>
                <l> Open the gates he's here to ride To-hell-I-go's calf</l>
-               <l> The daddy by his side</l>
+               <l> The daddy by his side </l>
             </lg>
          </div>
       </body>
