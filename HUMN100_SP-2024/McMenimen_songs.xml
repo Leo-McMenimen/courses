@@ -1362,6 +1362,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307013532321",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T06:35:32.321Z",
+	"dcterms:modified": "2024-03-07T06:35:32.321Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307013532321#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307013532321#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/head/title[2]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/plain",
+		"rdf:value": "The song “Come as You Are” by Zach Bryan has a theme of comradery. Zach talks about the challenges that he and his friends have faced in their lifetime, from issues such as substance abuse to depression. He talks about how his friends have been accepting of each other’s flaws, and that they help each other become “whole” again. These friendships that are making him whole are important because this is what allows him to feel like he is not alone. There are also references to a nostalgic theme reflecting on the good times that have been had in the past."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -1401,7 +1480,7 @@
             </lg>
          </div>
          <div>
-            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023">Zach Bryan</persName> - <title cert="high" level="a">Come as You Are</title> from the album <title cert="high" level="m" xml:space="default">Elisabeth </title></head>
+            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023">Zach Bryan</persName> - <title cert="high" level="a">Come as You Are</title> from the album <title cert="high" level="m" xml:space="default">Elisabeth <note type="scholarNote">The song “Come as You Are” by Zach Bryan has a theme of comradery. Zach talks about the challenges that he and his friends have faced in their lifetime, from issues such as substance abuse to depression. He talks about how his friends have been accepting of each other’s flaws, and that they help each other become “whole” again. These friendships that are making him whole are important because this is what allows him to feel like he is not alone. There are also references to a nostalgic theme reflecting on the good times that have been had in the past.</note></title></head>
             <lg>
                <l>I've got some good friends with some loose ends</l>
                <l>That remind me of myself</l>
