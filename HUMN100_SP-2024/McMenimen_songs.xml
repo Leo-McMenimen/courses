@@ -10747,6 +10747,86 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?rs_annotation_20240307174453002",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T22:44:53.002Z",
+	"dcterms:modified": "2024-03-07T22:44:53.002Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?rs_annotation_20240307174453002#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?rs_annotation_20240307174453002#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[5]/lg/l[32]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q197",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -10932,7 +11012,7 @@
                <l> Those <rs key="light" ref="http://www.wikidata.org/entity/Q9128" type="Decoration">backyard lights</rs> don't shine as bright without your face</l>
                <l> Out at Sarah's Place</l>
                <l> Hey</l>
-               <l> Plane tickets have gotten awfully expensive</l>
+               <l> <rs key="airplane" ref="http://www.wikidata.org/entity/Q197" cert="high">Plane tickets</rs> have gotten awfully expensive</l>
                <l> But I got mine for the price of a <rs key="Gibson" ref="http://www.wikidata.org/entity/Q210278" type="Instrument ">Gibson</rs> <note>This last line is important as it references the line earlier where he said he had to sell his old guitar. He sold his guitar in an attempt to go home and feel like he did when he was younger.</note></l>
             </lg>
          </div>
