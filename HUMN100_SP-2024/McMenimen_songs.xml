@@ -9155,7 +9155,7 @@
          <div>
             <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023" cert="high" type="real">Zach Bryan</persName> featuring <persName key="Noah Kahan" ref="http://www.wikidata.org/entity/Q53832755" cert="high" type="real">Noah Kahan</persName>- <title cert="high" level="a">Sarah’s Place</title> from the EP <title key="Boys of Faith" ref="http://www.wikidata.org/entity/Q122973585" level="m">Boys of Faith</title> <note type="scholarNote">The song “Sarah’s Place” by Zach Bryan featuring Noah Kahan is a song that focuses on nostalgia. The lyrics bring about a feeling of homesickness, especially due to the fact that someone Zach had cared about is no longer around changing the dynamic of his home town. The song talks about what almost seems like simpler times where they would just sit in the back yard and drink with all his friends. He talks about the change of how things are now and reminiscing about the joyful days he used to have with all of his friends while at “Sarah’s place”.</note></head>
             <lg>
-               <l>Road dogs are built for sleepin' in</l>
+               <l><rs>Road dogs</rs> are built for sleepin' in</l>
                <l> I've been up since 4 AM</l>
                <l> At your worst, you're better than my better days</l>
                <l> There ain't been no sun in LA</l>
