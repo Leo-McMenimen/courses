@@ -1401,7 +1401,7 @@
             </lg>
          </div>
          <div>
-            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023">Zach Bryan</persName> - <title cert="high" level="a">Come as You Are</title> from the album <title cert="high" level="m" xml:space="default">Elisabeth</title> </head>
+            <head><persName key="Zach Bryan" ref="http://www.wikidata.org/entity/Q106770023">Zach Bryan</persName> - <title cert="high" level="a">Come as You Are</title> from the album <title cert="high" level="m" xml:space="default">Elisabeth </title></head>
             <lg>
                <l>I've got some good friends with some loose ends</l>
                <l>That remind me of myself</l>
