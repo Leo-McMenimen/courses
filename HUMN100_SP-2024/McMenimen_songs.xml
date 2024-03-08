@@ -12097,6 +12097,165 @@
 	"cwrc:hasCertainty": "cwrc:high"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?person_annotation_20240307192818448",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T00:28:18.448Z",
+	"dcterms:modified": "2024-03-08T00:28:18.448Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?person_annotation_20240307192818448#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?person_annotation_20240307192818448#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[6]/lg/l[22]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q7569",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?rs_annotation_20240307192835085",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T00:28:35.085Z",
+	"dcterms:modified": "2024-03-08T00:28:35.085Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?rs_annotation_20240307192835085#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?rs_annotation_20240307192835085#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[6]/lg/l[23]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q629",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -12310,8 +12469,8 @@
                <l> My exes hate me and my friends all miss me</l>
                <l> I wanna drown in <rs key="whisky" ref="http://www.wikidata.org/entity/Q281" cert="high" type="Drink">Rotgut whiskey</rs></l>
                <l> Leave this small town for a while</l>
-               <l> I wanna be a child climbin' trees somewhere</l>
-               <l> Breathin' in the fresh outside air</l>
+               <l> I wanna be a <persName key="child" ref="http://www.wikidata.org/entity/Q7569" cert="high" type="real">child</persName> climbin' trees somewhere</l>
+               <l> Breathin' in the <rs key="oxygen" ref="http://www.wikidata.org/entity/Q629">fresh outside air</rs></l>
                <l> Before I knew this life was unkind <note>The previous five lines express that he is aware of the negative in the world, and he is reminiscing about when he was younger and unaware of all this.</note></l>
                <l> I want a well-trained dog on a couple of acres</l>
                <l> A kind, kind lady and a place to take her</l>
