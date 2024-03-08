@@ -13288,6 +13288,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307193609578",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-08T00:36:09.578Z",
+	"dcterms:modified": "2024-03-08T00:36:09.578Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/Leo-McMenimen",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Leo McMenimen"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307193609578#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/Leo-McMenimen/courses/main/HUMN100_SP-2024/McMenimen_songs.xml?note_annotation_20240307193609578#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[6]/lg/l[39]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Note",
+		"dc:format": "text/plain",
+		"rdf:value": "These last three lines talk about how he himself if simple and does not require much."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
    <text>
       <body>
@@ -13518,7 +13597,7 @@
                <l> Love <rs key="guitar" ref="http://www.wikidata.org/entity/Q6607">blues guitar</rs>, <rs key="muscle car" ref="http://www.wikidata.org/entity/Q1072763" cert="high" type="Vehicle">muscle cars</rs>, and <rs key="gin" ref="http://www.wikidata.org/entity/Q959362" type="Drink">gin</rs></l>
                <l> 'Cause I'm a simple man, I don't need much</l>
                <l> Just my simple songs and some human touch</l>
-               <l> Tired now, so I'm bringin' my ass home </l>
+               <l> Tired now, so I'm bringin' my ass home <note>These last three lines talk about how he himself if simple and does not require much.</note></l>
                <l> So let me go down the line</l>
                <l> I wanna feel it all, joy, pain, and sky</l>
                <l> So let me go down the line</l>
